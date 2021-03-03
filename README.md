@@ -1,3 +1,3 @@
 🔭 I’m currently working on [Notessimo](https://notessimo.net)!
 
-https://user-images.githubusercontent.com/77518/109819591-3e2f5400-7c02-11eb-8ec9-1644b7577863.mp4
+![Loop](https://user-images.githubusercontent.com/77518/109829710-c9f9ae00-7c0b-11eb-9f29-a4aaaa79729a.gif)
