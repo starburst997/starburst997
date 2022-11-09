@@ -6,3 +6,5 @@ Notessimo offer an intuitive music composition experience for persons of all age
 <p align="center">
   <img width="462" height="260" src="https://user-images.githubusercontent.com/77518/197408874-b4f1c515-e894-42df-b66e-e2f9b7acbf23.gif">
 </p>
+
+Most of the good stuff is in my private repositories ;) but feel free to browse!
