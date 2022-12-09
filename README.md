@@ -9,4 +9,4 @@ Notessimo offer an intuitive music composition experience for persons of all age
 
 Most of the good stuff are in my private repositories ;) but feel free to browse! It is mostly a bunch of forks with bug fixes / modifications. 
 
-**Looking for Freelance / Contract works**. Check out [my résumé](https://jd.boiv.in/resume/) as well.
+Looking for **Freelance** / **Contract** works. Check out [my résumé](https://jd.boiv.in/resume/) as well.
