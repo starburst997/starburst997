@@ -1,4 +1,4 @@
-🔭 I’m currently working on [Notessimo](https://notessimo.net) (Unity / C# / React / NextJS)!
+🔭 I’m currently working on [Notessimo](https://notessimo.net)!
 
 An hybrid between [Mario Paint](https://en.wikipedia.org/wiki/Mario_Paint) and old-school [tracker](https://en.wikipedia.org/wiki/Music_tracker) along with a [community](https://community.notessimo.net) to share and discuss music.
 
