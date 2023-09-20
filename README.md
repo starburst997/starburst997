@@ -1,4 +1,4 @@
-🔭 I’m currently working on [Notessimo](https://notessimo.net)!
+🔭 I’m currently working on [Notessimo](https://notessimo.net)! (and also a secret project)
 
 An hybrid between [Mario Paint](https://en.wikipedia.org/wiki/Mario_Paint) and old-school [tracker](https://en.wikipedia.org/wiki/Music_tracker) along with a [community](https://community.notessimo.net) to share and discuss music.
 
